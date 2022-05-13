@@ -3,7 +3,7 @@ echo "enter first number"
 read a
 echo "enter second number"
 read b
-echo "1.addition 2.substraction 3.multiplication 4.division 5.exit"
+echo "1.addition 2.substraction 3.multiplication 4.division 5.remainder 6.exit"
 while :
  do
 	echo "enter the choice"
